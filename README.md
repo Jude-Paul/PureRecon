@@ -1,5 +1,7 @@
 # PureRecon
-Basic usage 
+
+Basic usage: 
+
 ./purerecon.sh -r -d target.com
 
 ./purerceon.sh -r -f targets.txt
